@@ -6,15 +6,22 @@ def limpiar_pantalla():
 
 # Abrir el archivo que contiene la lista de nombres de otros archivos
 limpiar_pantalla();
+
 with open('GlosarioTerminos-insumos/letras.txt', 'r') as archivo_principal:
     for nombre_archivo in archivo_principal:
         nombre_archivo = nombre_archivo.strip()  # Elimina posibles saltos de línea o espacios
+        print(nombre_archivo)
 
         # Leer el contenido de cada archivo listado
         try:
-            with open('GlosarioTerminos-insumos/'+nombre_archivo, 'r') as archivo_individual:
-                contenido = archivo_individual.read()  # Leer el contenido completo del archivo
-                
+            
+            ruta = os.path.join('GlosarioTerminos-insumos', nombre_archivo)
+            # Leer el archivo
+            print ('ruta=',ruta)
+            with open(ruta, 'r', encoding='utf-8') as archivo_individual:
+            #with open(ruta, 'r') as archivo_individual:
+            #with open('GlosarioTerminos-insumos/'+nombre_archivo, 'r') as archivo_individual:
+                contenido = archivo_individual.read()  # Leer el contenido completo del archivo       
                 print(f"Contenido de: {nombre_archivo}:")
                 nombre_sin_extension, extension = os.path.splitext(nombre_archivo)
                 print(f"Nombre sin extensión: {nombre_sin_extension}")

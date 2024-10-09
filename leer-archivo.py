@@ -1,5 +1,6 @@
 import os  # Asegúrate de importar el módulo os
 import re  # Importar el módulo de expresiones regulares
+import csv
 
 def limpiar_pantalla():
     os.system('cls' if os.name == 'nt' else 'clear')
@@ -7,7 +8,11 @@ def limpiar_pantalla():
 # Abrir el archivo que contiene la lista de nombres de otros archivos
 limpiar_pantalla();
 
-with open('GlosarioTerminos-insumos/letras.txt', 'r') as archivo_principal:
+datos_procesados = []
+
+#with open('GlosarioTerminos-insumos/letras.txt', 'r') as archivo_principal:
+with open('GlosarioTerminos-insumos/letras-a.txt', 'r') as archivo_principal:
+    
     for nombre_archivo in archivo_principal:
         nombre_archivo = nombre_archivo.strip()  # Elimina posibles saltos de línea o espacios
         print(nombre_archivo)
@@ -58,6 +63,21 @@ with open('GlosarioTerminos-insumos/letras.txt', 'r') as archivo_principal:
                         print("Definición:")
                         print (definicion)
                         print("-" * 100)  # Separador visual entre archivos
+                        
+                        # Definir los encabezados
+                        encabezados = ["Concepto", "Definición"]
+                        # Definir la primer letra de la definición en mayúsculas
+                        #datos_procesados.append([concepto, definicion[0].upper()+definicion[1:]])
+                        datos_procesados.append([concepto, definicion])
+
+                        # Abrir un archivo CSV para escribir los datos procesados
+                        #with open('glosario.csv', 'w', newline='', encoding='utf-8') as archivo_csv:
+                        with open('glosario.csv', 'w',newline='') as archivo_csv:
+                            escritor_csv = csv.writer(archivo_csv)
+                            # Escribir los encabezados
+                            escritor_csv.writerow(encabezados)                            
+                           # Escribir los datos procesados
+                            escritor_csv.writerows(datos_procesados)
 
 
                     #print('Datos=>', datos)   

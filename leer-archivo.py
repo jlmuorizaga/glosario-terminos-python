@@ -29,7 +29,7 @@ with open('GlosarioTerminos-insumos/letras-a.txt', 'r') as archivo_principal:
                 contenido = archivo_individual.read()  # Leer el contenido completo del archivo       
                 print(f"Contenido de: {nombre_archivo}:")
                 nombre_sin_extension, extension = os.path.splitext(nombre_archivo)
-                print(f"Nombre sin extensión: {nombre_sin_extension}")
+                print("Nombre sin extensión: ",nombre_sin_extension)
                 print("*" * 100)  # Separador visual entre archivos
 
                 

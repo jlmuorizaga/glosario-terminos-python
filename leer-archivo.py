@@ -88,8 +88,17 @@ with open('GlosarioTerminos-insumos/letras.txt', 'r') as archivo_principal:
                                         if (numero==numero_fuente):
                                             print(f"Número: {numero}")
                                             definicion=definicion+"\n\n"
-                                            definicion=definicion+'Fuente: '+definicion_fuente+"\n\n"
-                                            definicion=definicion+f"Sitio(s) web: {urls if urls else 'No hay URLs'}"
+                                            definicion=definicion+'Fuente: \n'+definicion_fuente+"\n\n"
+                                            if urls:
+                                                definicion=definicion+"Sitio(s) web:\n"
+                                                print("Sitio(s) web:")  # Título para los sitios web
+                                                for url in urls:
+                                                    definicion=definicion+url+"\n"
+                                                    print(f"{url}")  # Cada URL en una línea nueva
+                                            else:
+                                                definicion=definicion+"Sitios web: No hay URLs"
+                                                print("Sitios web: No hay URLs")
+                                            #definicion=definicion+f"Sitio(s) web: {urls if urls else 'No hay URLs'}"
                                             print(f"Definición: {definicion}")
                                             #print(f"Sitio(s) web: {urls if urls else 'No hay URLs'}")
                                             #print({'Sitios web: '+urls if urls else 'No hay URLs'})

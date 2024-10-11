@@ -10,8 +10,8 @@ limpiar_pantalla();
 
 datos_procesados = []
 
-#with open('GlosarioTerminos-insumos/letras.txt', 'r') as archivo_principal:
-with open('GlosarioTerminos-insumos/letras-a.txt', 'r') as archivo_principal:
+with open('GlosarioTerminos-insumos/letras.txt', 'r') as archivo_principal:
+#with open('GlosarioTerminos-insumos/letras-a.txt', 'r') as archivo_principal:
     
     for nombre_archivo in archivo_principal:
         nombre_archivo = nombre_archivo.strip()  # Elimina posibles saltos de línea o espacios
@@ -63,6 +63,41 @@ with open('GlosarioTerminos-insumos/letras-a.txt', 'r') as archivo_principal:
                         print("Definición:")
                         print (definicion)
                         print("-" * 100)  # Separador visual entre archivos
+
+                        #with open('GlosarioTerminos-insumos/letras-a.txt', 'r') as archivo_principal:                        
+                        #print ('Creo que después de aqui envia un error')
+                        nombre_archivo_fuente=nombre_sin_extension+"-fuente.txt"
+                        try:
+                            ruta_fuente = os.path.join('GlosarioTerminos-insumos', nombre_archivo_fuente)
+                            print ('ruta_fuente='+ruta_fuente)
+                            with open(ruta_fuente, 'r', encoding='utf-8') as archivo_individual_fuente:
+                                contenido_fuente = archivo_individual_fuente.read()  # Leer el contenido completo del archivo  
+                                # Expresión regular para extraer número, definición y URLs (si existen)
+                                patron = r'(\d+)\.\s*(.*?)(?:\s*Sitio web:\s*(.+))?$'
+                                # Procesar el texto por líneas
+                                for linea_fuente in contenido_fuente.split("\n"):
+                                    # Buscar coincidencias por línea
+                                    coincidencia = re.match(patron, linea_fuente.strip())
+                                    if coincidencia:
+                                        numero_fuente = coincidencia[1]  # El número del registro
+                                        definicion_fuente = coincidencia[2].strip()  # La definición completa
+                                        sitios_web_fuente = coincidencia[3] if coincidencia[3] else ""  # Sitios web (si existen)        
+                                        # Si hay sitios web, extraerlos en una lista
+                                        urls = re.findall(r'https?://[^\s]+', sitios_web_fuente) if sitios_web_fuente else []
+                                        # Mostrar resultados
+                                        if (numero==numero_fuente):
+                                            print(f"Número: {numero}")
+                                            definicion=definicion+"\n\n"
+                                            definicion=definicion+'Fuente: '+definicion_fuente+"\n\n"
+                                            definicion=definicion+f"Sitio(s) web: {urls if urls else 'No hay URLs'}"
+                                            print(f"Definición: {definicion}")
+                                            #print(f"Sitio(s) web: {urls if urls else 'No hay URLs'}")
+                                            #print({'Sitios web: '+urls if urls else 'No hay URLs'})
+                                            print("-" * 50)
+                        except FileNotFoundError:
+                            print(f"Error linea 97: {nombre_archivo_fuente} no se encuentra.")
+
+
                         
                         # Definir los encabezados
                         encabezados = ["Concepto", "Definición"]
@@ -85,5 +120,5 @@ with open('GlosarioTerminos-insumos/letras-a.txt', 'r') as archivo_principal:
                 #print(contenido)
                 print("*" * 100)  # Separador visual entre archivos
         except FileNotFoundError:
-            print(f"Error: {nombre_archivo} no se encuentra.")
+            print(f"Error linea 119: {nombre_archivo} no se encuentra.")
 

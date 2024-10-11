@@ -96,8 +96,8 @@ with open('GlosarioTerminos-insumos/letras.txt', 'r') as archivo_principal:
                                                     definicion=definicion+url+"\n"
                                                     print(f"{url}")  # Cada URL en una línea nueva
                                             else:
-                                                definicion=definicion+"Sitios web: No hay URLs"
-                                                print("Sitios web: No hay URLs")
+                                                definicion=definicion+"Sitio(s) web: \nNo hay URLs\n"
+                                                print("Sitios web: No hay URLs\n\n")
                                             #definicion=definicion+f"Sitio(s) web: {urls if urls else 'No hay URLs'}"
                                             print(f"Definición: {definicion}")
                                             #print(f"Sitio(s) web: {urls if urls else 'No hay URLs'}")
@@ -111,8 +111,8 @@ with open('GlosarioTerminos-insumos/letras.txt', 'r') as archivo_principal:
                         # Definir los encabezados
                         encabezados = ["Concepto", "Definición"]
                         # Definir la primer letra de la definición en mayúsculas
-                        #datos_procesados.append([concepto, definicion[0].upper()+definicion[1:]])
-                        datos_procesados.append([concepto, definicion])
+                        datos_procesados.append([concepto, definicion[0].upper()+definicion[1:]])
+                        #datos_procesados.append([concepto, definicion])
 
                         # Abrir un archivo CSV para escribir los datos procesados
                         #with open('glosario.csv', 'w', newline='', encoding='utf-8') as archivo_csv:

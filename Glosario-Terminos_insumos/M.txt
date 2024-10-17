@@ -1,0 +1,51 @@
+242.	Manantial. Fuente natural de agua que fluye a partir de aguas subterráneas, atraviesa la roca, sedimento o suelo y luego fluye sobre la superficie de la tierra.242
+
+243.	Mancha urbana. Superficie construida y ocupada por asentamientos humanos de un centro de población.243
+
+244.	Manglar. Es una comunidad densa, dominada principalmente por un grupo de especies arbóreas conocidas como mangles, que se distribuye en los litorales del Océano Pacífico, Golfo de California y Océano Atlántico, en zonas con climas cálidos húmedos y subhúmedos y de muy baja altitud.244
+
+245.	Manzana. Superficie geográfica delimitada por calles, andadores, vías peatonales u otros rasgos identificables y está constituida por un grupo de viviendas, edificios, lotes o terrenos destinados a uso habitacional, comercial, industrial o de servicios, entre otros.245
+
+246.	Marco Geoestadístico. Sistema único y de carácter nacional diseñado por el INEGI, para referir geográficamente la información estadística de los censos, las encuestas y los registros administrativos. Es la división del país en Áreas Geoestadísticas con tres niveles de desagregación: Estatal (AGEE), Municipal (AGEM) y a nivel de grupo de manzanas dentro de un mismo municipio (AGEB).246
+
+247.	Marginación. Segregación de sectores de la población del acceso a múltiples satisfactores de carácter social, socioeconómico y político.247
+
+248.	Matorrales. Vegetación arbustiva de altura, composición florística y densidad variables. Se encuentra generalmente en regiones áridas y semiáridas.248
+
+249.	Medio ambiente. Todo aquello que nos rodea: flora, fauna, objetos inanimados (montañas, ríos, lagos, mar), clima, obras hechas por el humano, la gente, etcétera.249
+
+250.	Megalópolis. Sistema de zonas metropolitanas y centros de población y sus áreas de influencia, vinculados de manera estrecha geográfica y funcionalmente. El umbral mínimo de población de una Megalópolis es de 10 millones de habitantes.250
+
+251.	Mejoramiento. La acción tendente a reordenar, renovar, consolidar y dotar de infraestructura, equipamientos y servicios, las zonas de un Centro de Población de incipiente desarrollo, subutilizadas o deterioradas física o funcionalmente.251
+
+252.	Mejoramiento de vivienda. La acción tendiente a consolidar o renovar las viviendas deterioradas física o funcionalmente, mediante actividades de ampliación, reparación, reforzamiento estructural o rehabilitación que propicien una vivienda digna y decorosa.252
+
+253.	Mejoramiento urbano. Concepto que incluye la regeneración y consolidación urbana, procesos dinámicos ambos, que se distinguen porque el primero hace referencia a las acciones encaminadas a suprimir las causas del deterioro urbano en zonas específicas o en la totalidad de la urbe, mientras que la consolidación implica acciones orientadas a superar deficiencias y carencias en los asentamientos humanos relativamente recientes o en procesos de poblamiento.253
+
+254.	Mezquital tropical. Se desarrolla en condiciones de trópico seco, donde sus elementos, por lo general son árboles medianos (entre 5 y 10 m de altura, a veces más) de Mezquite (Prosopis spp.); esta comunidad se encuentra asociada con las selvas bajas espinosas y caducifolias; así como del matorral subtropical; se distribuye en el noroeste, noreste y parte del centro del país.254
+
+255.	Mezquital xerófilo. Este tipo de comunidad se desarrolla desde los 100 hasta los 2 300 m de altitud. Se presenta principalmente en llanuras, y en menor proporción sobre sierras y lomeríos. Los principales elementos son de porte arbustivo asociados con otros tipos de matorrales xerófilos como el matorral desértico micrófilo.255
+
+256.	Migración. Cambio de lugar de residencia habitual de las personas desde un municipio o delegación, entidad federativa o país de origen, a otro de destino.256
+
+257.	Minería. Unidades económicas dedicadas principalmente a la explotación de carbón mineral, minerales metálicos y no metálicos, y al beneficio de estos con el fin de obtener concentrados y precipitados.257
+
+258.	Mitigación del cambio climático. Son las actividades realizadas por el hombre para reducir las emisiones de gases de efecto invernadero producto de las actividades antropogénicas, fomentando los sumideros que capturan bióxido de carbono y otros gases de efecto invernadero de la atmósfera.258
+
+259.	Mobiliario urbano. Cualquier elemento o componente urbano complementario, permanente, fijo, móvil o temporal, que sirve de apoyo al equipamiento urbano y a la infraestructura y que refuerza la imagen urbana o permite la prestación de los servicios o la realización de actividades económicas.259
+
+260.	Monumentos arqueológicos. Los bienes muebles e inmuebles producto de culturas anteriores al establecimiento de la cultura hispana en el territorio Nacional, así como los restos humanos, de la flora y de la fauna, relacionados con estas culturas.260
+
+261.	Monumentos artísticos. Las obras que revisten valor estético relevante.261
+
+262.	Monumentos históricos. Los bienes vinculados con la historia de la Nación, a partir del establecimiento de la cultura hispana en el país, en los términos de la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas.262
+
+263.	Mortalidad. Fenómeno demográfico que observa las defunciones o fallecimientos que ocurren en una población durante un tiempo determinado.263
+
+264.	Monumentos naturales. Áreas con uno o más ecosistemas que se signifiquen por su belleza escénica, su valor científico, educativo, de recreo, su valor histórico, por la existencia de flora y fauna, por su aptitud para el desarrollo del turismo, o por otras razones análogas de interés general.264
+
+265.	Movilidad. Capacidad, facilidad y eficiencia de tránsito o desplazamiento de las personas y bienes en el territorio, priorizando la accesibilidad universal, así como la sustentabilidad de la misma.265
+
+266.	Movilidad urbana sustentable. Se refiere a aquellos desplazamientos multimodales, seguros y eficientes que propician la reducción del uso de vehículos particulares motorizados y se realizan en condiciones de equidad, tanto en las vialidades como en el espacio público de un área urbana consolidada. Los proyectos para la movilidad urbana sustentable deben facilitar el acceso de las personas a los bienes, servicios y equipamientos urbanos; y mejorar su calidad de vida al elevar la productividad de la ciudad, reducir las emisiones de gases efecto invernadero en favor del medio ambiente y facilitar la adaptación de sus habitantes ante el cambio climático.266
+
+267.	Municipio. Es una entidad política y una organización comunal; sirve de base para la división territorial y la organización política y administrativa de los estados de la federación en su régimen interior. Por lo tanto, el municipio es la célula básica de la división política del país, como lo establece el artículo 115 constitucional.267

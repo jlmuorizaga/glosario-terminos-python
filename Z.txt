@@ -1,0 +1,25 @@
+418.	Zona arqueológica. Aquella área que comprende varios monumentos prehispánicos, muebles o inmuebles que conservan un carácter relevante y son testimonio fehaciente de los acontecimientos sociales, políticos y religiosos de su época y son muestra viva de una cultura determinada.418
+
+419.	Zona conurbada. El área que se determina por convenio de los órdenes de gobierno involucrados, con objeto de reconocer el fenómeno de conurbación, para los efectos de planear y regular de manera conjunta y coordinada el desarrollo de los centros de población comprendidos en sus límites.419
+
+420.	Zona de descarga. Zona donde el agua subterránea mana (brota) de forma natural en distintas clases de surgencias en las laderas (manantiales) y a veces en fondos del relieve, siempre allí donde el nivel freático intercepta la superficie.420
+
+421.	Zona de fractura. Vasta zona lineal de topografía irregular, montañosa o con fallas, caracterizada por CRESTAS abruptas o asimétricas, grietas, SURCOS o ESCARPES.421
+
+422.	Zona de riesgo. Son las superficies de suelo de un municipio, identificadas como tales por los Atlas de Riesgos, que por su ubicación representan peligro, debido a factores antropogénicos o naturales, que pueden causar perjuicios a las personas o a sus bienes.422
+
+423.	Zona de recarga. Es una superficie en la cuenca, en donde las aguas pluviales y fluviales se infiltran hacia los acuíferos.423
+
+424.	Zona fronteriza. Área que se encuentra ubicada en la proximidad de la línea demarcatoria del territorio de dos o más Estados o Países.424
+
+425.	Zona geotérmica. Lugar con manifestación de actividad geotermal múltiple.425
+
+426.	Zona metropolitana. Centros de población o conurbaciones que, por su complejidad, interacciones, relevancia social y económica, conforman una unidad territorial de influencia dominante y revisten importancia estratégica para el desarrollo nacional.426
+
+427.	Zona rural. El territorio comprendido fuera del límite de centro de población y dentro de los límites municipales, que por sus aptitudes y características se dedica en forma preponderante a la explotación agropecuaria, forestal, minera u otra similar.427
+
+428.	Zonificación. La determinación de las áreas que integran y delimitan un territorio; sus aprovechamientos predominantes y las reservas, usos de suelo y destinos, así como la delimitación de las áreas de crecimiento, conservación, consolidación y mejoramiento.428
+
+429.	Zonificación primaria. La determinación de las áreas que integran y delimitan un centro de población; comprendiendo las áreas urbanizadas y áreas urbanizables, incluyendo las reservas de crecimiento, las áreas no urbanizables y las áreas naturales protegidas, así como la red de vialidades primarias.429
+
+430.	Zonificación secundaria. La determinación de los usos de suelo en un espacio edificable y no edificable, así como la definición de los destinos específicos.430

@@ -1,0 +1,39 @@
+398.	Vegetación. Conjunto de vegetales o plantas característicos de una región.398
+
+399.	Vegetación primaria. Vegetación en un estado de equilibrio dinámico con el clima reinante, no modificada por actividades humanas o acontecimientos naturales recientes.399
+
+400.	Vegetación urbana. Toda aquella vegetación situada de manera natural o por el hombre dentro de zonas urbanas como plazas, parques, jardines, entre otros.400
+
+401.	Vialidad. Espacio público destinado al tránsito peatonal y vehicular que delimita las manzanas y que generalmente se distingue por un nombre.401
+
+402.	Vía de Férrea. Vía de comunicación terrestre, cuya estructura consta de un terraplén y dos rieles paralelos fijados mediante durmientes, para el tránsito de trenes.402
+
+403.	Vía peatonal. Es la vía de circulación exclusiva para el tránsito peatonal, en la cual se cierra la circulación al tránsito vehicular.403
+
+404.	Vía pública. Todo inmueble de dominio público y uso común destinado al libre tránsito, a fin de dar acceso a los lotes y predios colindantes, alojar las instalaciones de obras o servicios públicos y proporcionar aireación, iluminación y asoleamiento a los inmuebles.404
+
+405.	Vías de comunicación. Son caminos y rutas por las que se puede transitar de un lugar a otro y cuya función principal consiste en conectar pueblos, ciudades y países.405
+
+406.	Vías urbanas (composición). Aquellas que se componen de cuatro elementos (vías peatonales, vías terciarias, vías secundarias y vías primarias).406
+
+407.	Vivienda. Espacio delimitado generalmente por paredes y techos de cualquier material, con entrada independiente, que se construyó para la habitación de personas, o que al momento del levantamiento censal se utilizó para vivir.407
+
+408.	Vivienda adecuada. Lugar donde habita una o más personas, que cuenta con seguridad de la tenencia; disponibilidad de servicios, materiales, instalaciones e infraestructura; asequibilidad, habitabilidad, accesibilidad; ubicación y adecuación cultural.408
+
+409.	Vivienda deshabitada. Vivienda particular que está totalmente construida y disponible para ser habitada y que al momento del levantamiento censal no tiene residentes habituales, no es de uso temporal y no es utilizada como local con actividad económica.409
+
+410.	Vivienda dúplex. Construcción en dos plantas, con las comunicaciones separadas generalmente con un muro medianero; asimismo, puede ser una vivienda por nivel con accesos separados.410
+
+411.	Vivienda multifamiliar. Construcción de viviendas en edificios con planta baja y hasta cuatro niveles sin requerir elevador, pudiendo haber una o varias viviendas por nivel, las que generar áreas comunes e indivisos que precisan el establecimiento del régimen de propiedad de condominio.411
+
+412.	Vivienda particular habitada. Vivienda particular que en el momento del levantamiento censal tiene residentes habituales que forman hogares. Incluye también cualquier recinto, local, refugio, instalación móvil o improvisada que estén habitados.412
+
+413.	Vivienda propia. Vivienda particular en donde reside el dueño legal o de hecho.413
+
+414.	Vivienda urbana. Espacio delimitado generalmente por paredes y techos de cualquier material, con entrada independiente y ubicado dentro de un área urbana que se construyó para la habitación de personas y es utilizado para vivir.414
+
+415.	Vulnerabilidad territorial. Nivel a que un sistema es susceptible, o no es capaz de soportar los efectos adversos de un fenómeno, definidos en función de su carácter, magnitud y exposición de un sistema y su capacidad de adaptación.415
+
+416.	Vulnerable por carencias sociales. Aquella población que presenta una o más carencias sociales, pero cuyo ingreso es superior a la línea de bienestar.416
+
+417.	Vulnerable por ingresos. Aquella población que no presenta carencias sociales pero cuyo ingreso es inferior o igual a la línea de bienestar.417

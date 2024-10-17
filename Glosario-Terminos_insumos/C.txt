@@ -1,0 +1,99 @@
+60.	Cabecera municipal. Localidad donde radica la autoridad municipal, es decir, las personas que fueron elegidas para gobernar un determinado municipio de alguna entidad federativa.60
+
+61.	Calidad de la vivienda. Es la percepción y valoración que diversos observadores y participantes le asignan al total y a los componentes (como el material que se usa en los pisos, los muros y el techo de la vivienda).61
+
+62.	Calidad de vida. Son aquellos aspectos que se refiere a las condiciones generales de vida individual y colectiva: vivienda, salud, educación, cultura esparcimiento, alimentación, etcétera.62
+
+63.	Calidad del aire. Compilación que describe la relación entre varias concentraciones de contaminantes en el aire y sus efectos adversos a la salud.63
+
+64.	Calle. Son los espacios más o menos estrechos, lineales, enmarcados por construcciones que se encuentran en todo tipo de asentamientos y son usados para la circulación y otras actividades.64
+
+65.	Calle completa. Redistribución del espacio de la vialidad para permitir el acceso seguro para todas las personas usuarias: peatones, ciclistas, personas usuarias de transporte público y automovilistas de todas edades y habilidades.65
+
+66.	Calle integral. Espacio del entorno urbano que cuenta con elementos de infraestructura básica e infraestructura complementaria además de movilidad segura, eficiente e incluyente para personas con discapacidad, peatones, ciclistas y vehículos.66
+
+67.	Cambio climático. Cambio de clima atribuido, directa o indirectamente, a la actividad humana, que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante períodos de tiempo comparables.67
+
+68.	Cambio en el uso del suelo. Se origina cuando las superficies o zonas forestales se destinan a otras actividades.68
+
+69.	Camellón. Banqueta central de una vía pública que divide en dos cuerpos el arroyo de una calle.69
+
+70.	Carretera. Vialidad que se comunica con otras localidades. Se incluyen las carreteras pavimentadas y de terracería, siempre y cuando estén limitando la manzana.70
+
+71.	Carretera federal. Vía de comunicación pavimentada para el tránsito del transporte terrestre; debido a que cruza el territorio de diferentes entidades federativas, su seguridad y mantenimiento depende del gobierno federal.71
+
+72.	Cartografía. Disciplina que trata sobre la concepción, producción, difusión y estudio de los mapas. Arte de trazar mapas geográficos.72
+
+73.	Catastro. El inventario público, sistemáticamente organizado, gráfico y alfanumérico descriptivo de los bienes inmuebles urbanos, rurales y de características especiales de un país. Es el término empleado para designar una serie de registros que muestran la extracción, el valor y la propiedad (u otro fundamento del uso o de la ocupación).73
+
+74.	Cenote. Término que se aplica generalmente a cavidades con flujo de agua subterránea que se da a través de la roca calcárea, cuyo techo ha colapsado y es expuesto al exterior.74
+
+75.	Centro urbano. Ciudad con 15 mil o más habitantes, que no reúne características de conurbación o zona metropolitana.75
+
+76.	Centros de población. Las áreas constituidas por las zonas urbanizadas y las que se reserven para su expansión.76
+
+77.	Chaparral. Es una asociación de arbustos o árboles esclerófilos de 1 a 4 m de alto, generalmente resistentes al fuego. Se encuentra en las llanuras, valles y lomeríos, entremezclados ocasionalmente con otro tipo de vegetación.77
+
+78.	Ciclovía. Todo espacio físico o infraestructura vial destinada al tránsito de vehículos no motorizados de propulsión humana.78
+
+79.	Ciudad. Agrupación de personas en un espacio físico continuo, en donde históricamente se han manifestado las realidades sociales, económicas y demográficas. El concepto alude principalmente al componente físico territorial.79
+
+80.	Ciudad central. La ciudad central es la localidad geoestadística urbana o conurbación que da origen a la zona metropolitana.80
+
+81.	Ciudad densa. Con mezcla de usos que promueven la actividad económica e incentivan recorridos cortos para el desarrollo de las labores cotidianas de los ciudadanos, con alta dependencia de transporte público. Aprovechando al máximo el espacio existente.81
+
+82.	Ciudad difusa. Es la ciudad con expansión de sus límites más allá de los políticos, en donde se conforman grandes corredores manufactureros y asentamientos de población basados y conectados a través de la infraestructura carretera regional.82
+
+83.	Clima cálido húmedo. Clima cálido con temperaturas promedio superiores a los 18°C con lluvias todo el año o lluvias muy abundantes en verano y otoño. Se presenta en el sureste del país, abarcando parte de Veracruz, Tabasco y norte de Chiapas.83
+
+84.	Clima cálido subhúmedo. Condiciones de temperaturas promedio que van de los 18°C a 26°C y más, con lluvias.84
+
+85.	Clima seco o semiseco. Se caracteriza porque llueve poco. Se presenta principalmente en la Altiplanicie Mexicana y en las llanuras al norte del Trópico de Cáncer, con excepción de la costa del Golfo que recibe la humedad del mar. La falta de lluvia se debe al descenso de los vientos llamados contralisios, que tienen poca humedad por lo que no producen lluvias.85
+
+86.	Clima templado húmedo. Clima templado con lluvias todo el año debido a que los vientos húmedos llamados Alisios penetran por el Golfo y ascienden a la Sierra Madre Oriental y Sierra de Chiapas. Se localiza en las partes altas de las sierras, en los límites de Puebla y Veracruz, Tabasco y Chiapas.86
+
+87.	Clima templado subhúmedo. Clima templado con lluvias en verano y parte del otoño. Se localiza en la mayor parte de las grandes sierras del país, inclusive en zonas que debieran ser de clima cálido, pero que debido a la altitud tienen clima templado.87
+
+88.	Código urbano. Es el instrumento técnico-legal para la normalización sistémica de los objetivos propuestos para el planeamiento físico del asentamiento urbano (permanente y transitorio) y las de ordenamiento ambiental en el área.88
+
+89.	Coeficiente de ocupación del suelo (COS). El factor que, multiplicado por el área total de un lote o predio, determina la máxima superficie de desplante edificable del mismo; excluyendo de su cuantificación, las áreas ocupadas por sótanos.89
+
+90.	Coeficiente de utilización del suelo (CUS). El factor que, multiplicado por el área total de un lote o predio, determina la máxima superficie construida que puede tener una edificación, en un lote o predio determinado; excluyendo de su cuantificación las áreas ocupadas por sótanos.90
+
+91.	Comercio. Toda aquella actividad enfocada a realizar una negociación que involucra la compra, venta o intercambio de productos, bienes o servicios.91
+
+92.	Comunidad. Es el conjunto de personas que viven en el medio rural y comparten tradiciones, usos y costumbres; está conformada por el conjunto de tierras, bosques y aguas, que le fueron reconocidos o restituidos, y de los cuales ha tenido presuntamente la posesión por tiempo inmemorial, con costumbres y prácticas comunales.92
+
+93.	Condominio. El grupo de departamentos, viviendas, casas, locales o naves de un inmueble, construidos en forma vertical, horizontal o mixta, para uso habitacional, comercial o de servicios, industrial o mixto, y susceptibles de aprovechamiento independiente por tener salida propia a un elemento común de aquél o a la vía pública y que pertenecen a distintos propietarios, los que tendrán un derecho singular y exclusivo de propiedad sobre los elementos y partes comunes del inmueble, necesarios para su adecuado uso y disfrute.93
+
+94.	Consejos Estatales de Ordenamiento Territorial. Órgano estratégico para la toma de decisiones en materia de ordenamiento territorial, con visión de largo plazo y que contribuya a: definir la ocupación y el uso del territorio en zonas aptas para el desarrollo; el aprovechamiento de las vocaciones del territorio; integrar sistemas urbano- rurales en función de la dinámica económica, la movilidad y conectividad; promover y dar seguimiento a los programas de ordenamiento territorial; identificar e instrumentar acciones para reducir la vulnerabilidad de los asentamientos humanos ante fenómenos naturales y de impactos al medio ambiente; converger las políticas sectoriales y el aprovechamiento de las ventajas de la competitividad, así como definir financiamiento y recursos que pueden contribuir a fortalecer la realización de acciones en materia de ordenamiento territorial en beneficio del desarrollo territorial de las entidades federativas.94
+
+95.	Conservación. Acción tendiente a preservar las zonas con valores históricos y culturales, así como proteger y mantener el equilibrio ecológico en las zonas de servicios ambientales.95
+
+96.	Conservación del suelo. Se entiende como todas las estrategias para recuperar la productividad de suelos degradados, dichas estrategias se deben conectar con otras medidas que afectan las prácticas de manejo de tierras, en particular la agricultura de conservación, buenas prácticas agrícolas y manejo de riegos.96
+
+97.	Consolidación urbana. Es un proceso que se da principalmente en los asentamientos periféricos a los grandes centros de población, especialmente en los de carácter popular y/o de origen irregular. Dura varios años y en ocasiones, varios lustros, implicando en gran parte de los casos, la regularización de la tenencia de la tierra, así como la introducción y/o construcción diferida en el tiempo, de infraestructura y equipamiento urbanos, introducción de servicios y construcción paulatina de las viviendas.97
+
+98.	Contaminación visual. La alteración de las cualidades de la imagen de un paisaje natural o urbano, causada por cualquier elemento funcional o simbólico, que tenga carácter comercial, propagandístico o de servicio. Se considera contaminación lumínica la causada por anuncios espectaculares, unipolares y/o electrónicos (LPADSEM).98
+
+99.	Conurbación. La continuidad física y demográfica que formen dos o más centros de población.99
+
+100.	Corredor urbano. La zona de optimización del aprovechamiento del suelo, asociando la infraestructura, jerarquía de la vialidad, el equipamiento, la vialidad y los servicios urbanos con la intensidad del uso o destino y densidad de construcción de áreas y predios, preferentemente para aprovechamiento comercial y de servicios.100
+
+101.	Corredor industrial. Conjunto de parques y ciudades industriales localizado a lo largo de vías de comunicación, pueden ser carreteras federales, estatales y/o vías de ferrocarril. Se establece, por lo general, entre dos o más municipios, e incluso entre dos estados de la República; comprende zonas urbanas y rurales.101
+
+102.	Crecimiento. Acción tendiente a ordenar y regular las zonas para la expansión física de los centros de población.102
+
+103.	Crecimiento económico. Se define como el incremento en la utilidad, o el valor de los bienes y servicios finales, producidos por una economía (de un país o región) en un lapso de tiempo específico (frecuentemente de un año).103
+
+104.	Crecimiento natural de la población. Suma de nacimientos menos las muertes ocurridas en una población de cualquier ciudad, estado o país.104
+
+105.	Crecimiento urbano. Expansión geográfica de una ciudad, el área urbana empieza a invadir la rural, su población se incrementa debido al desarrollo económico, aumenta la construcción de viviendas y edificaciones para empresas e industrias hacia la periferia.105
+
+106.	Cuenca hidrográfica. Superficie total de tierra drenada por un río y sus afluentes.106
+
+107.	Cuerpo de agua. Los lagos, acuíferos y ríos permanentes/intermitentes, bahías, ensenadas, lagunas costeras, estuario, marismas, embalses, pantanos, ciénegas y otras corrientes.107
+
+108.	Cultivo. Arte de cultivar la tierra. Refiere a la actividad humana que permite que la tierra fructifique a través de los diferentes trabajos de tratamiento del suelo.108
+
+109.	Curva de nivel. Línea imaginaria que une puntos con la misma elevación con respecto al nivel medio del mar empleado para representar el relieve del territorio.109

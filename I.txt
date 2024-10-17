@@ -1,0 +1,31 @@
+207.	Identificación y análisis de riesgos. Permite conocer los peligros y amenazas a los que se está expuesto; estudiar y conocer los fenómenos perturbadores, identificando dónde, cuándo y cómo afectan. Establecer a distintos niveles de escala y detalle, las características y niveles actuales de riesgo, entendiéndolo como el encuentro desafortunado del peligro (agente perturbador) con la vulnerabilidad (propensión a ser afectado) por medio de la exposición (el valor del sistema afectable).207
+
+208.	Imagen urbana. Es el resultado del conjunto de percepciones producidas por las características específicas arquitectónicas, urbanísticas y socioeconómicas de una localidad, más las originadas por los ocupantes de ese ámbito físico territorial, en el desarrollo de sus actividades habituales, en función de las pautas de conducta que los motiva. Tanto la forma y aspectos de la traza humana, tipo de antigüedad de las construcciones, así como las particularidades de barrios, calles, edificios o sectores y elementos históricos y artísticos de una localidad, son elementos entre otros, que dan una visión general parcial de sus características.208
+
+209.	Impacto ambiental. Las alteraciones a los recursos naturales o al ecosistema ocasionadas por la acción del ser humano (LADF).209
+
+210.	Impacto ecológico. El impacto del hombre o de las actividades naturales sobre los organismos vivientes y sus ambientes no vivientes.210
+
+211.	Impacto territorial. Efectos directos e indirectos que se manifiestan en un sistema territorial determinado, a partir de la modificación o transformación de su dinámica, como resultado de la implementación de políticas o proyectos públicos o privados, en el corto, mediano o largo plazo.211
+
+212.	Incendio forestal. Es un fuego que se da en bosques naturales o artificiales producido por la acción del ser humano o causado por la naturaleza y que avanza sin ningún control, ocasionando daños ecológicos, climáticos, económicos y sociales.212
+
+213.	Índice de edificación. La unidad de medida que sirve para conocer cuántas viviendas o unidades privativas pueden ser edificadas dentro de un mismo predio o lote en las zonas habitacionales, se aplica dividiendo la superficie del lote entre los metros cuadrados que se determinan como índice de edificación.213
+
+214.	Información estadística. Conjunto de resultados cuantitativos o datos que se obtienen de las Actividades Estadísticas y Geográficas en materia estadística, tomando como base los datos primarios obtenidos de los Informantes del Sistema sobre hechos que son relevantes para el conocimiento de los fenómenos económicos, demográficos y sociales, así como sus relaciones con el medio ambiente y el espacio territorial.214
+
+215.	Información geográfica. Conjunto organizado de datos espaciales georreferenciados, que mediante símbolos y códigos genera el conocimiento acerca de las condiciones físico-ambientales, de los recursos naturales y de las obras de naturaleza antrópica del territorio nacional.215
+
+216.	Infraestructura. Los sistemas y redes de organización y distribución de bienes y servicios en los Centros de Población, incluyendo aquellas relativas a las telecomunicaciones y radiodifusión.216
+
+217.	Infraestructura para la movilidad. Las vías públicas, sistemas de transporte e instalaciones que sirven para que se haga posible los desplazamientos de bienes y personas, necesarios para el desarrollo de las actividades en un centro de población o parte de él.217
+
+218.	Infraestructura peatonal. Conjunto de elementos físicos concebidos, con base en el diseño universal, para generar entornos que promuevan el desplazamiento activo y seguro; recreación, y encuentro, para la diversidad de personas.218
+
+219.	Infraestructura urbana. Conjunto de obras que constituyen los soportes del funcionamiento de las ciudades y que hacen posible el uso del suelo urbano: accesibilidad, saneamiento, encauzamiento, distribución de aguas y energía, comunicaciones, etcétera. Esto es, el conjunto de redes básicas de conducción y distribución: vialidad, agua potable, alcantarillado, energía eléctrica, gas y teléfono, entre otras, que hacen viable la movilidad de personas, abasto y carga en general, la dotación de fluidos básicos, la conducción de gas y la evacuación de los desechos urbanos.219
+
+220.	Instrumentos de ordenación y planificación. Herramientas ligadas a metodologías, normativas y directrices al servicio y practica del análisis espacial y la planificación territorial, estratégica, física y urbanística, correspondientes a la base estadística, modelos espaciales, cartografía, sistemas de información geográfica y normativa jurídica, con los cuales se posibilita el análisis y planificación de fenómenos de la realidad social, ambiental y el territorio en sus diferentes escalas, regiones y sectores.220
+
+221.	Interacción urbana. Interacción recíproca entre dos o más ciudades en función de los flujos existentes entre ellas, relacionadas con las diversas actividades urbanas; flujos comerciales económicos, de población y de servicios.221
+
+222.	Intersecciones. Espacio que se forma por el cruce de dos (o más) calles, a partir del trazado de una línea imaginaria entre las esquinas de las manzanas que tributan a ella. No incluye las aceras.222

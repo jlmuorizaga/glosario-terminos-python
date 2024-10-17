@@ -1,0 +1,19 @@
+197.	Hábitat. Área donde se dan un conjunto de condiciones ambientales (clima, suelo, agua) y biológicas que favorecen la vida y el desarrollo de las especies animales y vegetales.197
+
+198.	Habilitación. La dotación de obras de cabeza y redes de infraestructura, viales, de agua potable, saneamiento y electricidad a un área o predio.198
+
+199.	Hacinamiento. Se consideran las viviendas de 2.5 ocupantes por dormitorio, de acuerdo con la metodología de Déficit habitacional elaborada por el Comité Técnico Especializado de Vivienda del INEGI.199
+
+200.	Hacinamiento urbano. Situación negativa producida a raíz de la excesiva aglomeración de personas y viviendas, agravado esto con la falta de sitios de expansión. Los habitantes, entonces, se ven constreñidos a vivir en lugares sobrepoblados, lo que afecta a su privacidad, y en un medio pobre en áreas verdes o de paseo que no les permite el descanso ni la recreación adecuada, todo lo cual tiene perjudiciales consecuencias en las personas.200
+
+201.	Hidrografía. Descripción de las características de las aguas de la tierra. También se refiere al conjunto de ríos, superficiales y subterráneos, lagos, lagunas, presas y cenotes.201
+
+202.	Hidrología. Ciencia que estudia los fenómenos y procesos que transcurren en la hidrósfera. Se subdivide en hidrología superficial, hidrología subterránea y oceanología. En cada caso, estudia el régimen y el balance hídrico, la dinámica del agua, los procesos termales y las sustancias agregadas. Estudia el ciclo del agua en la naturaleza, la influencia sobre el mismo de la actividad humana, y su evolución en territorios determinados y en la tierra en conjunto.202
+
+203.	Hito. Edificaciones o elementos naturales que se destacan como acentos en las ciudades o en partes de estas y que sirven como elementos de orientación dentro del espacio urbano.203
+
+204.	Hogar. Unidad formada por una o más personas que comparten un mismo gasto para alimentación y que residen habitualmente en una vivienda. Pueden ser hogares familiares, no familiares, nucleares, ampliados, compuestos, corresidentes y unipersonales.204
+
+205.	Humedad del suelo. Es la relación expresada en porcentaje entre el peso del agua existente en una determinada masa de suelo y el peso de las partículas sólidas.205
+
+206.	Humedad. Cantidad de vapor de agua en el ambiente. Depende de la lluvia que cae en un determinado lugar o región y de las evaporaciones de cuerpos de agua y la vegetación.206

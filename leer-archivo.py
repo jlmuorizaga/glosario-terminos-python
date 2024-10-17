@@ -109,9 +109,9 @@ with open('GlosarioTerminos-insumos/letras.txt', 'r') as archivo_principal:
 
                         
                         # Definir los encabezados
-                        encabezados = ["Concepto", "Definición"]
+                        encabezados = ["No","Concepto", "Definición"]
                         # Definir la primer letra de la definición en mayúsculas
-                        datos_procesados.append([concepto, definicion[0].upper()+definicion[1:]])
+                        datos_procesados.append([numero,concepto, definicion[0].upper()+definicion[1:]])
                         #datos_procesados.append([concepto, definicion])
 
                         # Abrir un archivo CSV para escribir los datos procesados

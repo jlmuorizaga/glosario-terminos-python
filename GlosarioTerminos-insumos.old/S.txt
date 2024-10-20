@@ -1,71 +1,71 @@
-1.	Salud: definida por la Organización Mundial de la Salud (OMS) como el “estado de bienestar completo físico, mental y social, y no únicamente la ausencia de una enfermedad y dolencia”. La metodología de evaluación de la salud, según esta definición, ya no se emite y en la actualidad se presenta en términos de estadísticas de mortalidad y morbilidad.1
+346.	Salud. Definida por la Organización Mundial de la Salud (OMS) como el "estado de bienestar completo físico, mental y social, y no únicamente la ausencia de una enfermedad y dolencia". La metodología de evaluación de la salud, según esta definición, ya no se emite y en la actualidad se presenta en términos de estadísticas de mortalidad y morbilidad.346
 
-2.	Santuarios: áreas naturales protegidas establecidas en zonas caracterizadas por una considerable riqueza de flora y/o fauna o por la presencia de especies y subespecies o hábitats de distribución restringida. Abarcan cañadas, vegas, relictos, grutas, cavernas, cenotes, caletas u otras unidades topográficas o geográficas que requieran ser preservadas o protegidas.2
+347.	Santuarios. Áreas naturales protegidas establecidas en zonas caracterizadas por una considerable riqueza de flora y/o fauna o por la presencia de especies y subespecies o hábitats de distribución restringida. Abarcan cañadas, vegas, relictos, grutas, cavernas, cenotes, caletas u otras unidades topográficas o geográficas que requieran ser preservadas o protegidas.347
 
-3.	Sector primario: agrupa las actividades agrícolas, pecuarias, forestales, pesca y caza.3
+348.	Sector primario. Agrupa las actividades agrícolas, pecuarias, forestales, pesca y caza.348
 
-4.	Sector secundario: agrupa las actividades de minería, generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final; construcción; industria manufacturera; y producción artesanal.4
+349.	Sector secundario. Agrupa las actividades de minería, generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final; construcción; industria manufacturera; y producción artesanal.349
 
-5.	Sector terciario: agrupa las actividades, así como los servicios de: transporte, correos y almacenamiento; información en medios masivos; financieros y seguros; inmobiliarios; profesionales, científicos y técnicos; corporativos y servicios de apoyo a los negocios; manejo de residuos y desechos; servicios de remediación; educación; salud y asistencia  social, esparcimiento, culturales, deportivos y otros recreativos; alojamiento temporal y preparación de alimentos y bebidas; actividades legislativas, gubernamentales, de impartición de justicia, de organismos internacionales y extraterritoriales; y otros servicios no incluidos en los anteriores.5
+350.	Sector terciario. Agrupa las actividades, así como los servicios de: transporte, correos y almacenamiento; in- formación en medios masivos; financieros y seguros; inmobiliarios; profesionales, científicos y técnicos; cor- porativos y servicios de apoyo a los negocios; manejo de residuos y desechos; servicios de remediación; educación; salud y asistencia social, esparcimiento, culturales, deportivos y otros recreativos; alojamiento temporal y preparación de alimentos y bebidas; actividades legislativas, gubernamentales, de impartición de justicia, de organismos internacionales y extraterritoriales; y otros servicios no incluidos en los anteriores.350
 
-6.	Sequía: condición del medio ambiente en la que se registra deficiencia de humedad, debido a que durante un lapso más o menos prolongado, la precipitación pluvial es escasa. El ciclo hidrológico se desestabiliza al extremo de que el agua disponible llega a resultar insuficiente para satisfacer las necesidades de los ecosistemas, lo cual disminuye las alternativas de supervivencia e interrumpe o cancela múltiples actividades asociadas con el empleo del agua.6
+351.	Sequía. Condición del medio ambiente en la que se registra deficiencia de humedad, debido a que durante un lapso más o menos prolongado, la precipitación pluvial es escasa. El ciclo hidrológico se desestabiliza al extremo de que el agua disponible llega a resultar insuficiente para satisfacer las necesidades de los ecosistemas, lo cual disminuye las alternativas de supervivencia e interrumpe o cancela múltiples actividades asociadas con el empleo del agua.351
 
-7.	Selva: formación forestal tropical, muy rica en especies, en la que es notable la estructura en varios estratos arbóreos y la presencia de lianas y epifitas (ONG Perú Ecológico 2009).7
+352.	Selva. Formación forestal tropical, muy rica en especies, en la que es notable la estructura en varios estratos arbóreos y la presencia de lianas y epifitas (ONG Perú Ecológico 2009).352
 
-8.	Selva alta perennifolia: es el tipo de vegetación más exuberante y de mayor desarrollo de México, sus árboles dominantes sobrepasan los 30 m de altura y durante todo el año conservan el follaje. 8
+353.	Selva alta perennifolia. Es el tipo de vegetación más exuberante y de mayor desarrollo de México, sus árboles dominantes sobrepasan los 30 m de altura y durante todo el año conservan el follaje.353
 
-9.	Selva alta subperennifolia: se presenta en regiones con climas cálidohúmedos, con precipitaciones de 1100 a 1300 mm anuales, con una época de sequía bien marcada que puede durar de tres a cuatro o incluso cinco meses.9
+354.	Selva alta subperennifolia. Se presenta en regiones con climas cálidohúmedos, con precipitaciones de 1 100 a 1 300 mm anuales, con una época de sequía bien marcada que puede durar de tres a cuatro o incluso cinco meses.354
 
-10.	Selva media perennifolia: estas comunidades se desarrollan generalmente en donde la temperatura media anual es inferior a 18 °C. Los climas que imperan en sus áreas de distribución son cálidos de los tipos Af, Am, Cfa y Cfb; se encuentra en altitudes entre los 1 000 y 2 500 m en regiones montañosas, tanto de la vertiente del Pacífico como la del Golfo.10
+355.	Selva media perennifolia. Estas comunidades se desarrollan generalmente en donde la temperatura media anual es inferior a 18 °C. Los climas que imperan en sus áreas de distribución son cálidos de los tipos Af, Am, Cfa y Cfb; se encuentra en altitudes entre los 1 000 y 2 500 m en regiones montañosas, tanto de la vertiente del Pacífico como la del Golfo.355
 
-11.	Selva media subperennifolia: los componentes arbóreos de este tipo vegetación pierden estacionalmente su follaje en un 25 a 50%, se desarrolla en lugares con climas cálido húmedos y subhúmedos, Aw para las porciones más secas, Am para las más húmedas y Cw en menor proporción.11
+356.	Selva media subperennifolia. Los componentes arbóreos de este tipo vegetación pierden estacionalmente su follaje en un 25 a 50 %, se desarrolla en lugares con climas cálido húmedos y subhúmedos, Aw para las porciones más secas, Am para las más húmedas y Cw en menor proporción.356
 
-12.	Selva baja perennifolia: se describe la selva baja perennifolia en las cimas de los volcanes San Martín y Santa Martha en el Macizo de Los Tuxtlas, Veracruz, entre los 1400 y 1700 msnm, compuesta por Oreopanax xalapensis, Clusia salvinii, Morelia cerífera, Rapanea juergensenii, Alfaroa costaricensis, Alsophila salvinii, Hesdyosmum mexicanum, Matayba oppositifolia, Ocotea effusa, Roupala montaña, Weinmannia pinnata como las más abundantes en este tipo de selva.12
+357.	Selva baja perennifolia. Se describe la selva baja perennifolia en las cimas de los volcanes San Martín y Santa Martha en el Macizo de Los Tuxtlas, Veracruz, entre los 1 400 y 1 700 m.s.n.m., compuesta por Oreopanax xalapensis, Clusia salvinii, Morelia cerífera, Rapanea juergensenii, Alfaroa costaricensis, Alsophila salvinii, Hesdyosmum mexicanum, Matayba oppositifolia, Ocotea effusa, Roupala montaña, Weinmannia pinnata como las más abundantes en este tipo de selva.357
 
-13.	Selva baja subperennifolia: comunidad vegetal que se encuentra en las mismas regiones de la Selva Alta perennifolia, alta y mediana subperennifolia, se distribuye prácticamente en la península de Yucatán, en climas Cálidos húmedos y subhúmedos con temperaturas de 24 a 36°C y precipitaciones entre los 1300 y 2000 mm.13
+358.	Selva baja subperennifolia. Comunidad vegetal que se encuentra en las mismas regiones de la Selva Alta perennifolia, alta y mediana subperennifolia, se distribuye prácticamente en la península de Yucatán, en climas cálidos húmedos y subhúmedos con temperaturas de 24 a 36 °C y precipitaciones entre los 1 300 y 2 000 mm.358
 
-14.	Servicios públicos básicos: son aquéllos que el Estado provee sin necesidad de que el ciudadano haga una petición o lleve a cabo un trámite para obtenerlos cada vez que requiera de ellos.14
+359.	Servicios públicos básicos. Son aquellos que el Estado provee sin necesidad de que el ciudadano haga una petición o lleve a cabo un trámite para obtenerlos cada vez que requiera de ellos.359
 
-15.	Servicios urbanos: las actividades operativas y servicios públicos prestadas directamente por la autoridad competente o concesionada para satisfacer necesidades colectivas en los Centros de Población.15
+360.	Servicios urbanos. Las actividades operativas y servicios públicos prestadas directamente por la autoridad competente o concesionada para satisfacer necesidades colectivas en los Centros de Población.360
 
-16.	Sierra: sucesión de montañas que abarcan grandes extensiones de terreno, como las sierras Madre Occidental, Oriental y del Sur o la Cordillera Centroamericana.16
+361.	Sierra. Sucesión de montañas que abarcan grandes extensiones de terreno, como las sierras Madre Occidental, Oriental y del Sur o la Cordillera Centroamericana.361
 
-17.	Sistema de ciudades: es la identificación y jerarquización de los asentamientos urbanos, con relaciones de dependencias dinámicas de naturaleza económica, política, cultural, administrativa o religiosa.17
+362.	Sistema de ciudades. Es la identificación y jerarquización de los asentamientos urbanos, con relaciones de dependencias dinámicas de naturaleza económica, política, cultural, administrativa o religiosa.362
 
-18.	Sistema de Información Geográfica: conjunto de herramientas informáticas que integran y relacionan diversos componentes que permiten la organización, almacenamiento, manipulación, análisis y modelización de grandes cantidades de datos con referencia geográfica que conducen a la toma de decisiones.18
+363.	Sistema de Información Geográfica. Conjunto de herramientas informáticas que integran y relacionan diversos componentes que permiten la organización, almacenamiento, manipulación, análisis y modelización de grandes cantidades de datos con referencia geográfica que conducen a la toma de decisiones.363
 
-19.	Sistema Nacional Territorial: delimita las regiones y Sistemas Urbano Rurales que las integran y establece la jerarquización y caracterización de las zonas metropolitanas, Conurbaciones y Centros de Población, así como sus interrelaciones funcionales.19
+364.	Sistema Nacional Territorial. Delimita las regiones y Sistemas Urbano Rurales que las integran y establece la jerarquización y caracterización de las zonas metropolitanas, Conurbaciones y Centros de Población, así como sus interrelaciones funcionales.364
 
-20.	Sistema Urbano Nacional: conjunto de ciudades de 15 mil y más habitantes que se encuentran relacionadas funcionalmente, y cualquier cambio significativo en alguna de ellas propicia en mayor o menor medida, alteraciones en las otras. El SUN 2018, se integra por 401 ciudades que se clasifican en: zonas metropolitanas, conurbaciones y centros urbanos, identificados y definidos a partir del Marco Geoestadístico Nacional 2017.20
+365.	Sistema Urbano Nacional. Conjunto de ciudades de 15 mil y más habitantes que se encuentran relacionadas funcionalmente, y cualquier cambio significativo en alguna de ellas propicia en mayor o menor medida, alteraciones en las otras. El SUN 2018, se integra por 401 ciudades que se clasifican en: zonas metropolitanas, conurbaciones y centros urbanos, identificados y definidos a partir del Marco Geoestadístico Nacional 2017.365
 
-21.	Sistemas Urbano Rurales: unidades espaciales básicas del ordenamiento territorial, que agrupan a áreas no urbanizadas, centros urbanos y asentamientos rurales vinculados funcionalmente.21
+366.	Sistemas Urbano Rurales. Unidades espaciales básicas del ordenamiento territorial, que agrupan a áreas no urbanizadas, centros urbanos y asentamientos rurales vinculados funcionalmente.366
 
-22.	Sostenibilidad: visión compartida, holística y a largo plazo que los países han acordado como el mejor camino para mejorar la vida de las personas en todo el mundo. El desarrollo sostenible promueve la prosperidad y las oportunidades económicas, un mayor bienestar social y la protección del medio ambiente, transformándonos en una sociedad más justa y equitativa, con el objetivo de prosperar en el presente, pero sin comprometer los recursos del futuro.22
+367.	Sostenibilidad. Visión compartida, holística y a largo plazo que los países han acordado como el mejor camino para mejorar la vida de las personas en todo el mundo. El desarrollo sostenible promueve la prosperidad y las oportunidades económicas, un mayor bienestar social y la protección del medio ambiente, transformándonos en una sociedad más justa y equitativa, con el objetivo de prosperar en el presente, pero sin comprometer los recursos del futuro.367
 
-23.	Suelo: acumulación de material granular suelto, como producto de los procesos de intemperismo y erosión.23
+368.	Suelo. Acumulación de material granular suelto, como producto de los procesos de intemperismo y erosión.368
 
-24.	Suelo andosol: suelos originados a partir de vidrio volcánico bajo casi cualquier clima; pueden desarrollarse en otros materiales ricos en silicatos bajo meteorización ácida en climas húmedos.24
+369.	Suelo andosol. Suelos originados a partir de vidrio volcánico bajo casi cualquier clima; pueden desarrollarse en otros materiales ricos en silicatos bajo meteorización ácida en climas húmedos.369
 
-25.	Suelo feozem: (del griego phaios, obscuro y del ruso zemlja, suelo) son muy fértiles y aptos para el cultivo, si bien son sumamente proclives a la erosión. Con frecuencia son suelos profundos y ricos en materia orgánica. Se desarrollan sobre todo en climas templados y húmedos, por lo que se encuentran recubriendo el Eje Neovolcánico Transversal y porciones de la Sierra Madre Occidental.25
+370.	Suelo feozem. (Del griego phaios, obscuro y del ruso zemlja, suelo) son muy fértiles y aptos para el cultivo, si bien son sumamente proclives a la erosión. Con frecuencia son suelos profundos y ricos en materia orgánica. Se desarrollan sobre todo en climas templados y húmedos, por lo que se encuentran recubriendo el Eje Neovolcánico Transversal y porciones de la Sierra Madre Occidental.370
 
-26.	Suelo regosol: suelo muy poco desarrollado, muy parecido al material de origen.26
+371.	Suelo regosol. Suelo muy poco desarrollado, muy parecido al material de origen.371
 
-27.	Suelo rural: los terrenos no aptos para el uso urbano, por razones de oportunidad o por su destinación a usos agrícolas, ganaderos, forestales, de explotación de recursos naturales y actividades análogas.27
+372.	Suelo rural. Los terrenos no aptos para el uso urbano, por razones de oportunidad o por su destinación a usos agrícolas, ganaderos, forestales, de explotación de recursos naturales y actividades análogas.372
 
-28.	Suelo vertisol: suelo arcilloso que forman grietas debido a la expansión y contracción de las arcillas, forman facetas de fricción presión, generalmente de color obscuro.28
+373.	Suelo vertisol. Suelo arcilloso que forman grietas debido a la expansión y contracción de las arcillas, forman facetas de fricción presión, generalmente de color obscuro.373
 
-29.	Suelo urbano: constituyen el suelo urbano las zonas a las que el Programa General clasifique como tales, por contar con infraestructura, equipamiento y servicios y por estar comprendidas fuera de las poligonales que determine el Programa General para el suelo de conservación (LDUDF).29
+374.	Suelo urbano. Constituyen el suelo urbano las zonas a las que el Programa General clasifique como tales, por contar con infraestructura, equipamiento y servicios y por estar comprendidas fuera de las poligonales que determine el Programa General para el suelo de conservación (LDUDF).374
 
-30.	Suministro de energía eléctrica: aquella actividad técnica destinada a satisfacer la necesidad de carácter general consistente en generar, conducir, transformar, distribuir y abastecer de energía eléctrica, cuyo cumplimiento, uniforme y continuo, debe ser permanentemente asegurado, regulado y controlado por el poder público, con sujeción a un régimen de derecho público, para aprovechamiento indiscriminado de toda persona.30
+375.	Suministro de energía eléctrica. Aquella actividad técnica destinada a satisfacer la necesidad de carácter general consistente en generar, conducir, transformar, distribuir y abastecer de energía eléctrica, cuyo cumplimiento, uniforme y continuo, debe ser permanentemente asegurado, regulado y controlado por el poder público, con sujeción a un régimen de derecho público, para aprovechamiento indiscriminado de toda persona.375
 
-31.	Superficie estatal: es la expansión territorial que tiene una organización política que cuenta con poder administrativo y soberano sobre una determinada zona geográfica.31
+376.	Superficie estatal. Es la expansión territorial que tiene una organización política que cuenta con poder administrativo y soberano sobre una determinada zona geográfica.376
 
-32.	Superficie parcelada: son las tierras del ejido o comunidad agraria que han sido fraccionadas y distribuidas o asignadas individualmente entre sus integrantes para su explotación, sea ésta en forma individual, en grupo o colectivamente.32
+377.	Superficie parcelada. Son las tierras del ejido o comunidad agraria que han sido fraccionadas y distribuidas o asignadas individualmente entre sus integrantes para su explotación, sea esta en forma individual, en grupo o colectivamente.377
 
-33.	Superficie de uso común: son las tierras ejidales o comunales que no se han fraccionado ni distribuido entre sus integrantes. Los derechos para el aprovechamiento de estas tierras pueden ser compartidos por todos los integrantes del ejido o por parte de ellos, de acuerdo con las normas establecidas por Asamblea.33
+378.	Superficie de uso común. Son las tierras ejidales o comunales que no se han fraccionado ni distribuido entre sus integrantes. Los derechos para el aprovechamiento de estas tierras pueden ser compartidos por todos los integrantes del ejido o por parte de ellos, de acuerdo con las normas establecidas por Asamblea.378
 
-34.	Superficie para la reserva de crecimiento: son las tierras que, con anticipación, se reservaron para ampliar el área de uso habitacional. Generalmente forman parte del área del asentamiento humano, pero pueden estar separadas de ella.34
+379.	Superficie para la reserva de crecimiento. Son las tierras que, con anticipación, se reservaron para ampliar el área de uso habitacional. Generalmente forman parte del área del asentamiento humano, pero pueden estar separadas de ella.379
 
-35.	Superficie sembrada: es la superficie agrícola en la cual se deposita la semilla de cualquier cultivo, previa preparación del suelo y de la cual se lleva el seguimiento estadístico, es la variable más importante de las que genera la actividad agrícola.35
+380.	Superficie sembrada. Es la superficie agrícola en la cual se deposita la semilla de cualquier cultivo, previa preparación del suelo y de la cual se lleva el seguimiento estadístico, es la variable más importante de las que genera la actividad agrícola.380
 
-36.	Superficie siniestrada: es el área sembrada que en el ciclo agrícola registra pérdida total por afectación de fenómenos climáticos o por plagas y enfermedades. En el caso de perennes, se reconoce la pérdida total por siniestros con afectación sólo para la producción del año agrícola de que se trate, considerando que la plantación queda en posibilidad de ser cosechada en el año siguiente.36
+381.	Superficie siniestrada. Es el área sembrada que en el ciclo agrícola registra pérdida total por afectación de fenómenos climáticos o por plagas y enfermedades. En el caso de perennes, se reconoce la pérdida total por siniestros con afectación sólo para la producción del año agrícola de que se trate, considerando que la plantación queda en posibilidad de ser cosechada en el año siguiente.381

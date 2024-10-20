@@ -4,7 +4,6 @@ C-fuente.txt
 D-fuente.txt
 E-fuente.txt
 F-fuente.txt
-fuente.txt
 G-fuente.txt
 H-fuente.txt
 I-fuente.txt

@@ -48,7 +48,7 @@
 
 309.	Pobreza extrema. Una persona se encuentra en situación de pobreza extrema cuando tiene tres o más carencias, de seis posibles, dentro del Índice de Privación Social y que, además, se encuentra por debajo de la línea de bienestar mínimo. Las personas en esta situación disponen de un ingreso tan bajo que, aún si lo dedicase por completo a la adquisición de alimentos, no podría adquirir los nutrientes necesarios para tener una vida sana.309
 
-310.	Pobreza moderada. Es aquella persona que, siendo pobre, no es pobre extrema. La incidencia de pobreza moderada se obtiene al calcular la diferencia entre la incidencia de la población en pobreza menos la de la población en pobreza extrema. 310
+310.	Pobreza moderada. Es aquella persona que, siendo pobre, no es pobre extrema. La incidencia de pobreza moderada se obtiene al calcular la diferencia entre la incidencia de la población en pobreza menos la de la población en pobreza extrema.310
 
 311.	Popal. Comunidad vegetal herbácea, propia de lugares pantanosos o de agua dulce estancada de la Llanura Costera del Golfo Sur, en zonas con clima cálido húmedo, con temperaturas medias anuales superiores a los 25 °C y precipitación media anual mayor de 1 500 mm.311
 

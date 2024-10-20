@@ -128,6 +128,7 @@ with open('GlosarioTerminos-insumos/letras.txt', 'r') as archivo_principal:
 
                 #print(contenido)
                 print("*" * 100)  # Separador visual entre archivos
+                
         except FileNotFoundError:
             print(f"Error linea 119: {nombre_archivo} no se encuentra.")
 
